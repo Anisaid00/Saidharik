@@ -1,0 +1,32 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Saidharik.tk" resolutions="1x" timestamp="1546338162621">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-gabarit.css" crc="71109493" ref="index"/>
+    <file name="index.css" crc="53055521" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index"/>
+  </folder>
+  <folder name="images">
+    <file name="0oejqqu-4d-wallpaper.jpg" crc="4102970843" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u387-4.png" crc="3767844673" ref="phone>index"/>
+    <file name="u333-4.png" crc="3896428836" ref="index"/>
+    <file name="u103-4.png" crc="4258312786" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-gabarit.css" crc="528605827" ref="phone>index"/>
+      <file name="index.css" crc="500403500" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4115942251" seo="true" mt="1546338135286" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="468108883" seo="true" mt="1546337187309" redirect="true"/>
+</manifest>
